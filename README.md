@@ -47,7 +47,7 @@ This project automates the process by using a trained Machine Learning model to 
 ---
 
 ## 📂 Project Structure
-
+```
 insurance-premium-predictor/
 │
 ├── app.py # Main FastAPI application
